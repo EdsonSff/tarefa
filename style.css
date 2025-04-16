@@ -27,12 +27,12 @@ display {
   margin-bottom: 10px;
   border-radius: 5px;
 }
-[20:40, 16/04/2025] +55 62 9980-1790: #teclado {
+teclado {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 5px;
 }
-[20:41, 16/04/2025] +55 62 9980-1790: button {
+button {
   width: 60px;
   height: 60px;
   font-size: 1.5em;
